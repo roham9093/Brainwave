@@ -91,7 +91,8 @@ for mobile
 
 for laptop
 
-![alt text](<../../../Downloads/localhost_5173_ (1).png>)
+![localhost_5173_](https://github.com/user-attachments/assets/88148776-3276-4bfc-bbf4-bb8344c97552)
+
 
 ---
 
